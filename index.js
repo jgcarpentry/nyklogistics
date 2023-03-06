@@ -1,6 +1,3 @@
-
-  
-
 function day(){
     document.body.innerHTML = box;    
     }
